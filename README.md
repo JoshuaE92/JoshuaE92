@@ -1,49 +1,41 @@
 # 👋 Hey, I'm Joshua
 
-I'm currently pursuing a Bachelor's degree in Computer Science with a minor in Mathematics at the University of Central Florida.
+I'm a Computer Science student at the University of Central Florida, pursuing a minor in Mathematics.
 
-Right now, I’m exploring different areas within computer science and trying to find where I fit best. I’m especially interested in backend systems, AI/ML, and cybersecurity, but I’m open to learning anything that helps me grow as a developer.
+I’m someone who’s constantly exploring and learning—right now I’ve been diving into full-stack development, while also getting exposure to areas like backend systems and AI/ML. A lot of my work has involved building systems that connect real data, automation, and intelligent behavior.
 
-What drives me most is curiosity—I enjoy breaking things down, understanding how they work, and building from there. I'm focused on staying consistent, improving daily, and turning what I learn into real, tangible projects.
+More than anything, I enjoy figuring things out. Whether it’s understanding how systems interact, experimenting with new technologies, or building projects from scratch, I’m always looking for opportunities to learn and improve.
 
 ---
 
 ## 🔗 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](YOUR_LINKEDIN_LINK_HERE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Joshua%20Estime-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/joshua-estime)
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-### Tools & Technologies
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white)
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+
+### Tools & Platforms
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
-
-## 🚀 What I'm Working On
-
-- Practicing problem solving with LeetCode  
-- Building small projects to strengthen fundamentals  
-- Exploring cybersecurity concepts through hands-on labs  
-
----
-
-## 📈 Goals
-
-- Develop strong problem-solving and system design skills  
-- Build projects that demonstrate real-world impact  
-- Stay consistent and document my journey  
-
----
-
-## ⚡ Fun Fact
-
-I enjoy learning how things work—whether it’s systems, code, or patterns in the real world.
